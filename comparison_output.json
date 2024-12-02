@@ -1,0 +1,31 @@
+{
+    "OpenAI Output": {
+        "title": "Introduction to Cloud Computing",
+        "summary": "Cloud computing offers flexible resources over the internet for on-demand access to servers, storage, and applications, leading to scalability and cost efficiency for companies.",
+        "key_points": [
+            "Flexible resources over the internet",
+            "On-demand access to servers, storage, and applications",
+            "Scalability and cost efficiency for companies"
+        ],
+        "tags": [
+            "Cloud Computing",
+            "On-demand Access",
+            "Scalability",
+            "Cost Efficiency"
+        ]
+    },
+    "Local Model Output": {
+        "title": "Cloud computing provides flexible resources over the internet, enabling on-demand access to servers, storage, and applications.",
+        "summary": "Companies adopt it for scalability and cost efficiency. Cloud computing provides flexible resources over the internet. It enables on-demand access to servers, storage, and applications.",
+        "key_points": [
+            "Companies adopt it for scalability and cost efficiency",
+            "Cloud computing provides flexible resources over the internet",
+            "It enables on-demand access to servers, storage, and applications."
+        ],
+        "tags": [
+            "Companies",
+            "adopt",
+            "scalability"
+        ]
+    }
+}
